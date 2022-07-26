@@ -3318,6 +3318,10 @@ input, select, textarea {
 		z-index: 1;
 		min-height: 100vh;
 	}
+.project-title{
+	display:flex;
+	justify-content: center;
+}
 
 		#intro input, #intro select, #intro textarea {
 			color: #ffffff;
